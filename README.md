@@ -53,3 +53,5 @@ Built using the **Snowflake schema** methodology with the following key tables:
 - Published to Power BI Service with personal gateway for auto-refresh
 - Power BI App creation with workspace collaboration and access permissions
 - Large file version control via **GitHub LFS**
+
+![Dashboard](business.png)
